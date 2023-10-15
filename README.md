@@ -1,6 +1,6 @@
 # Polycystic Ovary Syndrome Diagnosis
 
-This project aimed to develop an AI-driven solution to aid in the diagnosis of Polycystic Ovary Syndrome (PCOS) by analyzing medical data and hormonal profiles. A machine learning model, specifically a Random Forest classifier, was trained and evaluated to achieve this aim. The model achieved an accuracy of approximately 86.24% on a test dataset, showing its potential usefulness in supporting healthcare professionals in diagnosing PCOS.
+This project aimed to develop an AI-driven solution to aid in the diagnosis of Polycystic Ovary Syndrome (PCOS) by analyzing medical data and hormonal profiles. A machine learning model, specifically a Random Forest classifier, was trained and evaluated to achieve this aim. The model achieved an accuracy, showing its potential usefulness in supporting healthcare professionals in diagnosing PCOS.
 
 ## Introduction
 Polycystic Ovary Syndrome (PCOS) is a hormonal disorder common among women of reproductive age. Early and accurate diagnosis is crucial for effective treatment and management. This project utilized machine learning to analyze a dataset of medical records and hormonal profiles to predict the likelihood of PCOS.
